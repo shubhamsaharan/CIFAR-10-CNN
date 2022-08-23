@@ -4,7 +4,7 @@ I worked in a team to create and train a Convulsion Neural Network which classif
 using the CIFAR-10 data set containing 60,000 RGB images of size 32x32.
 
 The following libraries need to be installed to run the code:
-  -> _Pickle
-  -> matplotlib
-  -> keras
-  -> tensorflow
+  1. _Pickle
+  2. matplotlib
+  3. keras
+  4. tensorflow
